@@ -1,0 +1,138 @@
+{
+  "brand": {
+    "name": "PhonePro",
+    "accent": "#2D9CDB"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Discover the Latest Smartphones",
+      "subheadline": "Shop top brands, unbeatable prices, and fast delivery. Upgrade your phone today!",
+      "primaryCta": {
+        "label": "Shop Now",
+        "href": "/shop"
+      },
+      "image": {
+        "kind": "url",
+        "name": "smartphone showcase",
+        "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Latest Smartphone Models",
+          "desc": "Explore a wide range of the newest phones from top brands, all in one place."
+        },
+        {
+          "title": "Competitive Prices",
+          "desc": "Get the best deals and exclusive discounts on your favorite devices."
+        },
+        {
+          "title": "Fast & Secure Shipping",
+          "desc": "Enjoy quick delivery and safe packaging to ensure your phone arrives in perfect condition."
+        },
+        {
+          "title": "Expert Support",
+          "desc": "Our knowledgeable team is ready to help you choose the right phone and answer any questions."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$19",
+          "period": "per month",
+          "features": [
+            "Unlimited calls & texts",
+            "2GB high-speed data",
+            "Free SIM card",
+            "No contract"
+          ]
+        },
+        {
+          "name": "Plus",
+          "price": "$29",
+          "period": "per month",
+          "features": [
+            "Unlimited calls & texts",
+            "10GB high-speed data",
+            "Free SIM card",
+            "Hotspot included"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$49",
+          "period": "per month",
+          "features": [
+            "Unlimited calls & texts",
+            "Unlimited high-speed data",
+            "Free SIM card",
+            "Hotspot included",
+            "Priority support"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah T.",
+          "quote": "The phone I bought here exceeded my expectations. Fast delivery and great customer service!"
+        },
+        {
+          "name": "James R.",
+          "quote": "Excellent selection of the latest models at unbeatable prices. Highly recommended!"
+        },
+        {
+          "name": "Priya M.",
+          "quote": "I found the perfect phone for my needs. The buying process was smooth and hassle-free."
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What types of phones do you offer?",
+          "a": "We offer a wide range of smartphones from top brands, including the latest models and budget-friendly options."
+        },
+        {
+          "q": "Do your phones come with a warranty?",
+          "a": "Yes, all our phones come with a standard manufacturer warranty for your peace of mind."
+        },
+        {
+          "q": "Can I trade in my old phone?",
+          "a": "Absolutely! We offer a trade-in program where you can exchange your old phone for credit towards a new one."
+        },
+        {
+          "q": "Are there financing options available?",
+          "a": "Yes, we provide flexible financing plans to make it easier for you to get the phone you want."
+        },
+        {
+          "q": "How long does shipping take?",
+          "a": "Most orders are processed and shipped within 1-2 business days, with delivery typically taking 3-5 business days."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Upgrade Your Phone Today!",
+      "cta": {
+        "label": "Shop Now",
+        "href": "/shop"
+      }
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 PhoneHub. All rights reserved. | Privacy Policy | Terms of Service"
+    }
+  ]
+}
